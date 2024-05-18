@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Num Ana Machine Problem 4", "Num Ana Machine Problem 4\Num Ana Machine Problem 4.csproj", "{519B4A02-4565-4693-87FB-FE1F49909AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{519B4A02-4565-4693-87FB-FE1F49909AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519B4A02-4565-4693-87FB-FE1F49909AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519B4A02-4565-4693-87FB-FE1F49909AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519B4A02-4565-4693-87FB-FE1F49909AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D96AE453-E42B-4FC0-84D4-AE90E933159B}
+	EndGlobalSection
+EndGlobal
